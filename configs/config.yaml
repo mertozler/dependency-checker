@@ -1,0 +1,19 @@
+redis:
+  host: "localhost:6379"
+  password: "eYVX7EwVmmxKPCDmwMtyKVge8oLd2t81"
+host:
+  port: ":8080"
+mail:
+  from: "write your email adress"
+  password: "write your email password"
+  host: "smtp.gmail.com"
+  port: "587"
+github:
+  api: "https://api.github.com/repos/"
+mailsender:
+  hour: 24
+javascript:
+  registryURL: "https://registry.npmjs.org/"
+dependency:
+  path:
+  - "package.json"
